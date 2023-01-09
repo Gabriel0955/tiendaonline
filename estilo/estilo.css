@@ -24,7 +24,6 @@ a{
     color: rgb(0, 0, 0);
     font-family:'monospace';
     color: #d0ff00;
-    text-shadow: 1px 1px 5px black;
     margin:auto;
 }
 ul{
@@ -111,5 +110,25 @@ footer{
     background-image: linear-gradient(100deg, #4158D0 0%, #C850C0 56%, #FFCC70 100%);    
     margin-bottom: 0;
     color: white;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.dedo{
+    width: 70px;
+    height: 50px;
+    border-radius: 0;
+}
+.dedo:hover{
+    width: 70px;
+    height: 50px;
+}
+.info{
+    font-size: 35px;
+    color: rgb(3, 231, 60);
+    text-shadow: 1px 1px 5px rgb(0, 0, 0),1px 1px 5px rgb(0, 0, 0),1px 1px 5px rgb(0, 0, 0);
 }
 
