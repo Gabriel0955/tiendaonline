@@ -27,6 +27,7 @@ a{
     font-family:'monospace';
     color: #d0ff00;
     margin:auto;
+    text-shadow: 1px 1px 5px black;
 }
 ul{
     text-align: center !important;
