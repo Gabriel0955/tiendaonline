@@ -95,3 +95,7 @@ button{
     color: darkorange;
     text-shadow: 5px 5px 5px rgb(0, 0, 0),1px 1px 5px black,1px 1px 1px black,5px 5px 5px rgb(0, 0, 0);
 }
+.vs{
+    background: rgb(252,70,202);
+    background: linear-gradient(90deg, rgba(252,70,202,1) 27%, rgba(251,85,63,1) 84%);
+}

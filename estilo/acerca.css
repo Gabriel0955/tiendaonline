@@ -96,3 +96,7 @@ button{
     text-shadow:5px 1px 5px #000000;
     cursor: pointer;
 }
+.vs{
+    background: rgb(252,70,202);
+    background: linear-gradient(90deg, rgba(252,70,202,1) 27%, rgba(251,85,63,1) 84%);
+}
